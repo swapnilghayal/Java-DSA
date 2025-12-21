@@ -1,0 +1,5 @@
+interface sim
+{
+	 void startsim();
+
+}
